@@ -1,0 +1,31 @@
+body{
+    text-align: left;
+    justify-content: left;
+    flex-direction: row;
+    background-size: cover;
+    background-color: purple;
+    background-origin: padding-box;
+    background-image: url('https://th.bing.com/th/id/OIP.SHZzqpCQiLfuqb8Q6_AwrQHaGf?w=227&h=197&c=7&r=0&o=5&pid=1.7');
+    
+}
+
+.img
+{
+    border-color: orange;
+    width: 200px;
+    height: 400px;
+    
+}
+
+h1{
+    background-color: blue;
+}
+
+.img
+{
+    background-image: url('https://th.bing.com/th/id/OIP.SHZzqpCQiLfuqb8Q6_AwrQHaGf?w=227&h=197&c=7&r=0&o=5&pid=1.7');
+}
+
+h2{
+    background-color: blue;
+}
